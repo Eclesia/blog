@@ -15,7 +15,12 @@ Pour faire simple, le principe est de réussir des missions en reliant des ville
 Les plateaux originaux sont très rafinés, pleins de petits détails et tenter 
 d'égaler la qualité d'origine n'a pas été une mince affaire.
 
-Mais voici le résultat (à une résolution bien moindre) :
+Après :
+- un peu de QGIS pour le fond de plan à base de données Gebco
+- quelques heures de Gimp pour retoucher le fond et lui donner un aspect ludique
+- plusieurs heures d'Inkscape pour les textes et symboles
+
+Voici le résultat (à une résolution moindre) :
 
 ![Plateau](/resources/plateau.png)
 
